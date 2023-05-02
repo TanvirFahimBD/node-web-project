@@ -1,5 +1,3 @@
-// Write a function named createServer that creates a simple HTTP server using the built-in http module. The server should listen on port 3000 and respond to all requests with a plain text response of "Hello, World!".
-
 const http = require('http');
 const fs = require('fs');
 
